@@ -24,7 +24,7 @@ O **CurseMark** é uma ferramenta leve e automatizada de fuzzer web desenvolvida
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com
+git clone https://github.com/c4nnabidi0lx/CurseMark
 cd CurseMark
 ```
 
